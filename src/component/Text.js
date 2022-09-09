@@ -2,7 +2,7 @@ import React from 'react'
 
 function Text() {
   return (
-                <div className='w-full h-full text-right text-lg'>
+                <div className='w-full h-full text-right text-lg p-5'>
                 <p>
                 كل شيء تم اختياره بعناية. سرير صغير ورضاعات وفرشاة شعر حريرية. كذلك ملابس وردية ليوم الولادة وفستان أبيض لحفل الأسبوع. وحدها الصغيرة "ماسة" لم تكن مستعدة لمغادرة المستشفى. فقد باتت عارية حبيسة صندوق زجاجي في إحدى الحاضنات لتلتقط أنفاسها
                 

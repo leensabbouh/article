@@ -4,7 +4,7 @@ import Text from './Text'
 
 function Part2() {
   return (
-    <div className='my-10 text-center p-10'>
+    <div className='my-9 text-center p-10'>
          <h2 className='text-xl font-bold my-8'>بلد الترخيص</h2>
          <Text/>
          <Map/></div>

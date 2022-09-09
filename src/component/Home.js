@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 function Home() {
   return (
 <div className='text-black text-center'>
-<img src={home} className="w-full bg-cover h-screen bg-no-repeat relative" />
+<img src={home} className="w-full bg-cover bg-contain h-screen bg-no-repeat relative" />
   <div className='p-8 h-full absolute inset-0'>
     <Navbar/>
     
